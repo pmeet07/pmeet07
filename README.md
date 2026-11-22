@@ -1,7 +1,7 @@
 <!-- ==================== HERO ==================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,45:0B2942,100:00B4D8&text=MEET%20PATEL&fontColor=FFFFFF&fontSize=55&fontAlignY=38&desc=DEVOPS%20%26%20CLOUD%20ENGINEER%20%7C%20FULL%20STACK%20DEVELOPER&descSize=16&descAlignY=60&animation=fadeIn" width="100%" />
+  <img src="./banner.png" width="100%" alt="Meet Patel - DevOps & Cloud Engineer" />
 </p>
 
 <p align="center">
